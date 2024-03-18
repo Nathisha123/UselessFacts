@@ -1,0 +1,53 @@
+body
+{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpR3qnkIi3yFcLiMJ1sMMCwkq5upc2OQB7HQ&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.container
+{
+    font-family: "Poppins", sans-serif;
+    
+    
+}
+
+.container-head
+{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+.container-button
+{
+    text-align: center;
+    margin-top: 100px;
+}
+.card-title
+{
+    padding: 20px;
+   
+}
+
+.card
+{
+    text-align: center;
+    margin-top: 5vh;
+    border: 1px solid black;
+    width: 30%;
+    padding: 30px;
+    border-radius: 10px;
+    margin-left: 35%;
+    
+}
+.RandomDiv
+{
+    color: blue;
+    
+}
+.TodaysDiv
+{
+    color:brown;
+}
