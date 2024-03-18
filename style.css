@@ -3,6 +3,7 @@ body
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpR3qnkIi3yFcLiMJ1sMMCwkq5upc2OQB7HQ&usqp=CAU");
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100vh;
   
 }
 
@@ -40,6 +41,7 @@ body
     padding: 30px;
     border-radius: 10px;
     margin-left: 35%;
+   
     
 }
 .RandomDiv
